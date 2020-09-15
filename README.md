@@ -18,6 +18,6 @@ Welcome to my timeline. My name is Lokesh Bhati, and I enjoy building Mobile App
 </center>
 
   
- ## Download [TechaTronics](https://www.youtube.com/channel/UCvdG9ByTr3OgBpkTGc19R9g?view_as=subscriber)
+ ## Blog [TechaTronics](https://www.youtube.com/channel/UCvdG9ByTr3OgBpkTGc19R9g?view_as=subscriber)
 
 
