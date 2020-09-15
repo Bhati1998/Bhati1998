@@ -1,7 +1,7 @@
 
 
 <h4 align="left">
- Hi there 👋🏾
+ Hi there 👋
 </h4>
 <p align="left">
 Welcome to my timeline. My name is Lokesh Bhati, and I enjoy building Mobile Applications using Kotlin | I still play with Java, but we had to part ways. 
