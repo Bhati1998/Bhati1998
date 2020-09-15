@@ -7,4 +7,4 @@
 - 📫 Reach me via: Email and LinkedIn
 - ⚡ Important Project Rule: Less is more !!
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=ashishrana160796&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Bhati1998&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
