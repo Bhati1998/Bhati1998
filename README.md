@@ -1,19 +1,5 @@
 ### Hi there, I'm [Lokesh!](https://bhati1998.github.io/lokesh.github.io/) 👋
 
-<a href="https://codesandbox.io/u/Bhati1998">
-  <img align="left" alt="Lokesh Bhati | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/Bhati1998/Bhati1998/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Lokesh Bhati | Twitter" width="21px" src="https://raw.githubusercontent.com/Bhati1998/Bhati1998/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Lokesh's Discord" width="21px" src="https://raw.githubusercontent.com/Bhati1998/Bhati1998/master/assets/discord-round.svg" />
-</a>
-
-<br />
-<br />
-
-
 
 <p align="left">
 Welcome to my timeline. My name is Lokesh Bhati, and I enjoy building Mobile Applications using Kotlin | I still play with Java, but we had to part ways. 
