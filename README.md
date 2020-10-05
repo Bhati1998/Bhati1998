@@ -11,8 +11,6 @@ Welcome to my timeline. I enjoy building Websites and Mobile Application | I sti
  🌱 I’m currently learning VLSI Domain, and I love it so far.
  ⚡ Fun fact: I enjoy solving some random Math problems to keep me occupied.
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-
 ### You Can Contact Me At:
 
 [<img align="left" alt="bhati1998.github.io/lokesh.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -23,13 +21,14 @@ Welcome to my timeline. I enjoy building Websites and Mobile Application | I sti
 
 <br />
   
-
 [website]: https://bhati1998.github.io/lokesh.github.io/
 [telegram]: https://t.me/Luvbhati
 [youtube]: https://www.youtube.com/c/TechaTronics
 [instagram]: https://instagram.com/lokesh_bhati_
 [stackoverflow]: https://stackoverflow.com/users/Luvbhati
 [mainprofile]: https://github.com/Bhati1998
+
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 
 <details>
@@ -40,5 +39,6 @@ Welcome to my timeline. I enjoy building Websites and Mobile Application | I sti
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhati1998&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
 </details> 
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhati1998)
