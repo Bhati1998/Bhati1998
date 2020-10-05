@@ -1,5 +1,9 @@
 ### Hi there, I'm [Lokesh!](https://bhati1998.github.io/lokesh.github.io/) 👋
 
+## A Guy Whos Not Perfect But Working Hard For His Dreams
+- 🙈 Animal Lover!
+- 👯 Thinking To Start Contributing in Open Source
+- ⚽️ I am currently learning everything 🤣
 
 <p align="left">
 Welcome to my timeline. My name is Lokesh Bhati, and I enjoy building Mobile Applications using Kotlin | I still play with Java, but we had to part ways. 
