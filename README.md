@@ -1,12 +1,12 @@
 ### Hi there, I'm [Lokesh!](https://bhati1998.github.io/lokesh.github.io/) <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
+<img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="200" />
+
 ### A Guy Who's Not Perfect But Working Hard For His Dreams
 
 - 🙈 Animal Lover!
 - 👯 Thinking To Start Contributing in Open Source
 - ⚽️ I am currently learning everything 🤣
-
-<img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="200" />
 
 <p align="left">
 Welcome to my timeline. I enjoy building Websites and Mobile Application 
