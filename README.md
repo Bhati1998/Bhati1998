@@ -1,4 +1,4 @@
-### Hi there, I'm [Lokesh!](https://bhati1998.github.io/lokesh.github.io/) 👋
+### Hi there, I'm [Lokesh!](https://bhati1998.github.io/lokesh.github.io/) <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ### A Guy Who's Not Perfect But Working Hard For His Dreams
 
@@ -7,8 +7,8 @@
 - ⚽️ I am currently learning everything 🤣
 
 <p align="left">
-Welcome to my timeline.I enjoy building Mobile Applications using Kotlin | I still play with Java, but we had to part ways. 
- 🌱 I’m currently learning Machine Learning, and I love it so far.
+Welcome to my timeline. I enjoy building Websites and Mobile Application | I still play with Embedded System, but we had to part ways. 
+ 🌱 I’m currently learning VLSI Domain, and I love it so far.
  ⚡ Fun fact: I enjoy solving some random Math problems to keep me occupied.
 <h5 align="left">
 <center>
@@ -39,3 +39,6 @@ Welcome to my timeline.I enjoy building Mobile Applications using Kotlin | I sti
 [instagram]: https://instagram.com/lokesh_bhati_
 [stackoverflow]: https://stackoverflow.com/users/Luvbhati
 [mainprofile]: https://github.com/Bhati1998
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhati1998)
