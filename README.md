@@ -25,8 +25,6 @@ Welcome to my timeline. My name is Lokesh Bhati, and I enjoy building Mobile App
 
 <br />
   
- ## [YouTube](https://www.youtube.com/channel/UCvdG9ByTr3OgBpkTGc19R9g?view_as=subscriber)
-
 
 [website]: https://bhati1998.github.io/lokesh.github.io/
 [telegram]: https://t.me/Luvbhati
