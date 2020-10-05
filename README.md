@@ -32,9 +32,6 @@ Welcome to my timeline. I enjoy building Websites and Mobile Application | I sti
 [mainprofile]: https://github.com/Bhati1998
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhati1998)
-
-
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
@@ -44,3 +41,4 @@ Welcome to my timeline. I enjoy building Websites and Mobile Application | I sti
 </p>
 </details> 
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhati1998)
