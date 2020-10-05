@@ -14,7 +14,7 @@ Welcome to my timeline. I enjoy building Websites and Mobile Application
  🌱 I’m currently learning VLSI Domain, and I love it so far.
  ⚡ Fun fact: I enjoy solving some random Math problems to keep me occupied.
 
-### You Can Contact Me At:
+### You Can Contact Me At: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 [<img align="left" alt="bhati1998.github.io/lokesh.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="TechaTronics | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
