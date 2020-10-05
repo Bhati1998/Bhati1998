@@ -10,15 +10,6 @@
 Welcome to my timeline. I enjoy building Websites and Mobile Application | I still play with Embedded System, but we had to part ways. 
  🌱 I’m currently learning VLSI Domain, and I love it so far.
  ⚡ Fun fact: I enjoy solving some random Math problems to keep me occupied.
-<h5 align="left">
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhati1998&hide=html&layout=compact" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Bhati1998&theme=default" /></td>
-  </tr>   
-</table>
-</center>
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
@@ -40,6 +31,16 @@ Welcome to my timeline. I enjoy building Websites and Mobile Application | I sti
 [stackoverflow]: https://stackoverflow.com/users/Luvbhati
 [mainprofile]: https://github.com/Bhati1998
 
---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhati1998)
+
+
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bhati1998&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhati1998&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+</details> 
+
