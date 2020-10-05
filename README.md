@@ -1,6 +1,6 @@
 ### Hi there, I'm [Lokesh!](https://bhati1998.github.io/lokesh.github.io/) 👋
 
-### A Guy Whos Not Perfect But Working Hard For His Dreams
+### A Guy Who's Not Perfect But Working Hard For His Dreams
 
 - 🙈 Animal Lover!
 - 👯 Thinking To Start Contributing in Open Source
