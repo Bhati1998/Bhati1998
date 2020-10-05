@@ -7,7 +7,7 @@
 - ⚽️ I am currently learning everything 🤣
 
 <p align="left">
-Welcome to my timeline. My name is Lokesh Bhati, and I enjoy building Mobile Applications using Kotlin | I still play with Java, but we had to part ways. 
+Welcome to my timeline.I enjoy building Mobile Applications using Kotlin | I still play with Java, but we had to part ways. 
  🌱 I’m currently learning Machine Learning, and I love it so far.
  ⚡ Fun fact: I enjoy solving some random Math problems to keep me occupied.
 <h5 align="left">
