@@ -9,7 +9,8 @@
 - ⚽️ I am currently learning everything 🤣
 
 <p align="left">
-Welcome to my timeline. I enjoy building Websites and Mobile Application 
+Welcome to my timeline. I enjoy building Websites and Mobile Application
+ 
  ⚡ I still play with Embedded System, but we had to part ways.
  🌱 I’m currently learning VLSI Domain, and I love it so far.
  ⚡ Fun fact: I enjoy solving some random Math problems to keep me occupied.
