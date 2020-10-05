@@ -24,7 +24,7 @@ Welcome to my timeline. My name is Lokesh Bhati, and I enjoy building Mobile App
 
 [<img align="left" alt="bhati1998.github.io/lokesh.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="TechaTronics | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="stackoverflow.com/users/13728209/Luvbhati" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="stackoverflow.com/users/Luvbhati" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="Luvbhati | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/telegram.svg" />][telegram]
 [<img align="left" alt="lokesh_bhati_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -35,5 +35,5 @@ Welcome to my timeline. My name is Lokesh Bhati, and I enjoy building Mobile App
 [telegram]: https://t.me/Luvbhati
 [youtube]: https://www.youtube.com/c/TechaTronics
 [instagram]: https://instagram.com/lokesh_bhati_
-[stackoverflow]: https://stackoverflow.com/users/13728209/Luvbhati
+[stackoverflow]: https://stackoverflow.com/users/Luvbhati
 [mainprofile]: https://github.com/Bhati1998
