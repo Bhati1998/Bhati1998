@@ -6,8 +6,11 @@
 - 👯 Thinking To Start Contributing in Open Source
 - ⚽️ I am currently learning everything 🤣
 
+<img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="200" />
+
 <p align="left">
-Welcome to my timeline. I enjoy building Websites and Mobile Application | I still play with Embedded System, but we had to part ways. 
+Welcome to my timeline. I enjoy building Websites and Mobile Application 
+ ⚡ I still play with Embedded System, but we had to part ways.
  🌱 I’m currently learning VLSI Domain, and I love it so far.
  ⚡ Fun fact: I enjoy solving some random Math problems to keep me occupied.
 
